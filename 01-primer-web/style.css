@@ -1,0 +1,31 @@
+h1 {
+    /* color:red;   */ /*  puedes utilizar la erramietno e hex color en gooogle y copias el codio HEX */
+}
+
+h2{
+    font-size: 24px; /*se pueden usar valores en pixeles en unidades rem (1 rem es 16 px 2 rem 24 px masomenos) */
+    /* color:blue; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* ASEGURARTE QEU TODOS TUS ARCHIVOS DE TU PROYECTO (HTMML, CSS...) ESTA EN LA MISMA CARPETA 
+ESCRIBIERN EN EL HEAD LINK MAS TABULADOR
+AÑANDIR EL NOMBRE DEL ARCHIVO CSS EN HREF */
+
+/* LSO SELECTOE POR ID:  son atributos qeu podemos añadir a nuestras etiquetas en HTMl; y con ello logramso que al ID qeu tenga tal ID sea el unico qeu va a ser modificado por el CSS y simrpe poner ; despues de termnar cada estilo */
+#name{
+
+}
+/* tambien teenmso lo selectores clases, lo padre es qeu lo podemos usar a varios elementosw o etiquetas estan cmpuestas por punto y nombre de la clase--->.descripcion */
+
+/* las clases se pueden combinar solo poner en la etiqueta del html los nombre de las clases separadas pro un espacio...tienen mayor jerarquia las de hasta abajo */
+.descripcion {
+    font-size: 35px;
+   /*  color: blueviolet */;
+
+}
+.text{
+    color: brown;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

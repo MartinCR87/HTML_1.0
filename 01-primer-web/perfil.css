@@ -1,0 +1,23 @@
+/* concepto de estilo
+/* necesitamosUnSelector{
+    estilo: valor; */
+/* } */
+
+/* Para validar que se enlazo correctamente el CSS con el HTML hacemos lo siguiente codigo (nos pondrá un background de color rojo "*" el asterisco significa que lo vamos a aplicar a todo el body:
+
+* {
+    background: red; 
+} */
+
+
+
+
+h1 {
+    color:red;
+}
+
+h3 {
+    font-size: 24px;
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
